@@ -1,0 +1,31 @@
+{"unspent_outputs" : [
+  {
+    "input_number" : 1,
+    "inputs" : [
+      {
+        "output_txid" : 1234567890,
+        "output_index" : 0,
+        "input_index" : 0
+      }
+    ],
+    "output_number" : "2",
+    "outputs" : [
+      {
+        "address" : "aaaa",
+        "gruut" : 10,
+        "signature" : "cbc20a7664f2f69e5355aa427045bc15e7c6c772",
+        "public_key" : "12ad5d656323d32212423b13333c323a3151cc3f",
+        "script_code" : "76a914<pubKeyash>88ac",
+        "output_index" : 0
+      },
+      {
+        "address" : "aaaa",
+        "gruut" : 20,
+        "signature" : "cbc20a7664f2f69e5355aa427045bc15e7c6c772",
+        "public_key" : "12ad5d656323d32212423b13333c323a3151cc3f",
+        "script_code" : "76a914<pubKeyash>88ac",
+        "output_index" : 1
+      }
+    ]
+  }
+]}

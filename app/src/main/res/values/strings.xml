@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_bitcoinj</string>
+    <string name="start">start</string>
+    <string name="genKey">Generate\nPublic Key Pair</string>
+    <string name="genAddress">Gengerate\nAddress for User</string>
+    <string name="genTransaction">Generate\nA Sample Transaction</string>
+    <string name="genSignature">Signing Transaction</string>
+    <string name="publishMessage">Publish a Message</string>
+</resources>

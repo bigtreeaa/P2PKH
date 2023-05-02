@@ -1,0 +1,24 @@
+{ "version" : "01",
+  "unspent_outputs" :  [
+    {
+      "input_count" : "1",
+      "input" : [{
+        "previous_output" : [{
+          "TXID" : "00000000000000000000000000000000",
+          "index" : "ffffffff"
+        }],
+        "coinbase" : [{
+          "height" : "1",
+          "signature" : "checkSigData",
+          "sequence" : "00000000"
+        }]
+      }],
+      "output_count" : "1",
+      "output" : [{
+        "coin" : "0000000000000000",
+        "script" : "76 a9 PkHash 88 ac",
+        "locktime" : "00000000"
+      }]
+    }
+  ]
+}

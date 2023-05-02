@@ -1,0 +1,18 @@
+{ "version" : "01",
+  "unspent_outputs" :  [
+  {
+    "tx_in_count" : "1",
+    "tx_in" : [{
+      "previous_output" : [{
+        "TXID" : "",
+        "index" : "",
+        ""
+      }]
+    }],
+    "tx_out_count" : "1",
+    "tx_out" : [{
+      "data" : "",
+      "sequence" : ""
+    }]
+  }
+]}
